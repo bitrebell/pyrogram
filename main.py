@@ -1,4 +1,4 @@
-from pyrogram import Client
+from pyrogram import Client, filters
 
 bot = Client(
     "My first Project",
